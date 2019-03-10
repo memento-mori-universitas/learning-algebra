@@ -1,0 +1,15 @@
+version: 2.0
+
+id: learning-algebra
+
+about:
+  title: Learning algebra
+  description: Learning alegrabra for statistics
+
+contacts:
+  - type: author
+    name: Gonzalo Vazquez
+    email: gonzalovazquez010@gmail.com
+
+priority:
+  - type: low
